@@ -1,9 +1,9 @@
 {
-    "name": "laravel/laravel",
+    "name": "mdavis1982/bobobo",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
-    "license": "MIT",
+    "description": "The bobobo web application.",
+    "keywords": ["bobobo", "bubble tea"],
+    "license": "proprietary",
     "require": {
         "php": "^8.2",
         "laravel/framework": "^11.0",
